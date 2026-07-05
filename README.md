@@ -105,3 +105,7 @@ It demonstrates the ability to:
 - prepare structured outputs for dashboarding
 - interpret results from both product and store performance perspectives
 - communicate findings through dashboard storytelling and written business recommendations
+---
+
+## Resume Project Summary
+SQL + Tableau portfolio project analyzing H1 2023 coffee shop business performance across three dimensions: monthly revenue trend, product-level revenue contribution, and store-level revenue vs. sales volume comparison. Built SQL queries to structure dashboard-ready datasets, designed a Tableau dashboard, and translated findings into business recommendations on pricing, product mix, and store performance optimization.
