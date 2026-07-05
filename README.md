@@ -38,7 +38,7 @@ The Tableau dashboard summarizes:
 - monthly revenue trend
 - top coffee product performance
 - store-level revenue vs. sales volume comparison
-<img width="1413" height="805" alt="dashboard_overview" src="https://github.com/user-attachments/assets/3ba9f1e6-6051-40a5-b2f3-1ef646fbb520" />
+<img width="1427" height="818" alt="dashboard_overview" src="https://github.com/user-attachments/assets/f68f71f5-1a08-46f6-a33d-db4034b90681" />
 
 > Tableau Public dashboard link:**(https://public.tableau.com/views/H12023CoffeeShopBusinessPerformanceDashboard/H12023CoffeeShopBusinessPerformanceDashboard?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]**  
 > Notion project page: **https://app.notion.com/p/H1-2023-Coffee-Shop-Business-Performance-Review-392279450f9f8051aa69d4d80895eee1?source=copy_link**
